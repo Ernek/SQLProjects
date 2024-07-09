@@ -1,2 +1,2 @@
-# sql_projects
+# SQL
 SQL Workspace
